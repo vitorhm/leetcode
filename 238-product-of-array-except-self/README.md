@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/product-of-array-except-self">Product of Array Except Self</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
+<h2><a href="https://leetcode.com/problems/product-of-array-except-self">Product of Array Except Self</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-yellow' alt='Difficulty: Medium' /><hr>
 
 <div class="elfjS" data-track-load="description_content"><p>Given an integer array <code>nums</code>, return <em>an array</em> <code>answer</code> <em>such that</em> <code>answer[i]</code> <em>is equal to the product of all the elements of</em> <code>nums</code> <em>except</em> <code>nums[i]</code>.</p>
 
